@@ -37,8 +37,8 @@ iframe{
 }
 #options{
     position: absolute;
-    top: 88%;
-    left: 41%;
+    top: 30%;
+    left: 65%;
     background-color: rgb(233, 233, 233);
     border-radius: 40px;
 }
@@ -49,6 +49,6 @@ iframe{
 #options img{
     width: 50px;
     margin: 5px;
-    padding: 0px 10px;
+    padding: 5px;
     border-radius: 50%;
 }
